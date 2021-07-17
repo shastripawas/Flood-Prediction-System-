@@ -4,4 +4,4 @@ We have used 2 models here:
 1. RNN and Deep Learning based model
 2. Moving and exponential average model
 
-The data has been obtained from the offiical website of the Indian Meterological Department.
+The rainfall data  has been obtained from the offiical website of the Indian Meterological Department.
