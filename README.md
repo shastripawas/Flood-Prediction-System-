@@ -1,2 +1,7 @@
 # Flood-Prediction-System-
-A Time series analysis model to predict the annual rainfall in various regions of India
+This project is a time series analysis model to predict the annual rainfall in various regions of India.
+We have used 2 models here:
+1. RNN and Deep Learning based model
+2. Moving and exponential average model
+
+The data has been obtained from the offiical website of the Indian Meterological Department.
